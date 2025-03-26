@@ -10,10 +10,12 @@ A seguir um breve Passo a Passo da configuração:
 - O Azure AI Foundry é a plataforma da Microsoft para desenvolver aplicações inteligentes.
 ### 2. Criando um Projeto no Azure AI Foundry
 <br> <img src="assets/azure-ai-foundry-home-page.png" alt="Imagem representativa" width="900">
+
 1. Acesse o Azure AI Foundry e faça login.
 2. Clique em "Create a project" para criar um projeto.
 
 <br> <img src="assets/azure-ai-foundry-create-project.png" alt="Imagem representativa" width="900">
+
 3. Escolha um nome e, se necessário, crie um hub de IA.
 4. Selecione um local para os serviços (East US, France Central, etc.).
 5. Recursos criados automaticamente:
@@ -25,6 +27,7 @@ A seguir um breve Passo a Passo da configuração:
 6. Acesse a aba "Playgrounds" no menu lateral.
 ### 3. Explorando o Chat Playground
 <br> <img src="assets/azure-ai-foundry-playgrounds.png" alt="Imagem representativa" width="600">
+
 1. No Playgrounds, selecione "Try the Chat playground".
 2. Crie uma implantação selecionando o modelo GPT-4.
 3. Aguarde a ativação e aplique as configurações.
